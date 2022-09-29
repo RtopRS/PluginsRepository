@@ -1,0 +1,10 @@
+{
+    "id": "essentials",
+    "name": "Essentials",
+    "description": "Essentials Widgets is a Rtop plugin with a lot of basics widgets.",
+    "url": "https://github.com/RtopRS/PluginEssentials",
+    "version": "0.1.0",
+    "author": "Rtop Development Team",
+    "license": "MPL-2.0",
+    "verified": true
+}
