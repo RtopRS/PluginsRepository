@@ -1,0 +1,7 @@
+{
+  "id": "rtop",
+  "name": "Rtop Repository",
+  "description": "The official repository for RTop plugins.",
+  "url": "https://github.com/RtopRS/PluginsRepository/",
+  "fallback_url": "https://gitlab.com/rtoprs/PluginsRepository/"
+}
