@@ -1,0 +1,11 @@
+
+{
+  "id": "docker",
+  "name": "Docker",
+  "description": "A simple plugin for Rtop to manage Docker containers.",
+  "url": "https://github.com/Asthowen/RtopPluginDocker",
+  "version": "0.1.0",
+  "author": "Asthowen",
+  "license": "MPL-2.0",
+  "verified": true
+}
